@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="小倉天王 二棟構成シンボル">
+  <defs>
+    <linearGradient id="taupe" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d3c5b2"/>
+      <stop offset="1" stop-color="#aa9985"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#201915" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+  <rect width="240" height="240" fill="none"/>
+  <g filter="url(#soft)">
+    <path d="M114 34v172" stroke="#1f252b" stroke-width="3.5" stroke-linecap="round" opacity=".92"/>
+    <path d="M30 104h106" stroke="#1f252b" stroke-width="3.5" stroke-linecap="round" opacity=".82"/>
+    <path d="M106 150h104" stroke="#1f252b" stroke-width="3.5" stroke-linecap="round" opacity=".82"/>
+    <path d="M51 113h74v74H51z" fill="none" stroke="#1f252b" stroke-width="5" opacity=".92"/>
+    <rect x="124" y="65" width="76" height="76" fill="url(#taupe)" opacity=".88"/>
+    <path d="M124 65h76v76" fill="none" stroke="#1f252b" stroke-width="4" opacity=".74"/>
+    <path d="M74 80h90" stroke="#1f252b" stroke-width="3" opacity=".58"/>
+    <path d="M81 80v60" stroke="#1f252b" stroke-width="3" opacity=".38"/>
+    <rect x="113" y="131" width="32" height="32" fill="#a52b23"/>
+    <rect x="96" y="112" width="52" height="34" fill="#ffffff" opacity=".72"/>
+  </g>
+</svg>
