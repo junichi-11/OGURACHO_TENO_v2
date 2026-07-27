@@ -15,3 +15,7 @@
 
 
 2026-07-13 revised3: Site Strategy heading/content revised for two-building plan, parking emphasis reduced, dedicated interior section added, metrics adjusted.
+
+
+## Latest update (2026-07-27)
+All site-plan, Phase 01 floor-plan, Phase 02 floor-plan, and exterior-render assets have been replaced with the latest approved source set.

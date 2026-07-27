@@ -1,23 +1,25 @@
-# Delivery Notes｜OGURA TENNO v2 Image Replacement
+# DELIVERY NOTES
 
-## Update Summary
-- Replaced all old overall exterior perspectives with the new overall perspective set.
-- Replaced Phase01 3F plan with the revised Phase01 3F plan.
-- Replaced Phase02 3F plan with the revised Phase02 3F plan.
-- Replaced Phase01 exterior image set with the new front-view day/evening perspectives.
-- Replaced Phase02 exterior image set with the new front-view day/evening perspectives.
-- Adjusted gallery composition according to APS editorial rules: image role, phase clarity, and sequence.
+## Deliverable
+Complete production-ready landing page package for the Ogura Tenno two-building plan.
 
-## Image Role
-- HERO: New wide evening overall perspective.
-- PROJECT / SITE PLANNING: New wide daytime overall perspective.
-- PHASE01: New front-view Phase01 daytime and evening perspectives.
-- PHASE02: New front-view Phase02 daytime and evening perspectives.
-- GALLERY: New full overall exterior set only. Old overall perspectives removed.
-- PLAN VIEWER: Revised Phase01 3F and Phase02 3F plan images.
+## Included
+- index.html
+- styles.css
+- script.js
+- complete assets directory
+- README.md
+- CHANGELOG.md
+- DELIVERY_NOTES.md
 
-## APS Check
-- Structure retained where already strong.
-- No unnecessary section expansion.
-- Editorial image selection updated to match section roles.
-- Old imagery removed to avoid mixed-plan inconsistency.
+## Latest source-of-truth replacements
+- Overall site plan: latest uploaded configuration drawing
+- Phase 01: latest 1F / 2F / 3F plans
+- Phase 02: latest 1F / 2F / 3F plans
+- Exterior renderings: latest overall, Phase 01 front, and Phase 02 front image set
+
+## Verification
+- All local asset references resolve.
+- Plan viewer includes site + six floor-plan states.
+- Lightbox remains active for drawings and renderings.
+- Existing responsive layout and APS editorial structure are preserved.
